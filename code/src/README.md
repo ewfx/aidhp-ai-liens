@@ -76,3 +76,46 @@ We saw a recurring problem—people struggle to find financial products that sui
 ```bash
 git clone https://github.com/your-username/finvasion.git
 cd finvasion
+
+2.Backend
+Note: Temporarily move the files inside the venv dir outside and delete the venv directory temporarily before running the commands.
+
+cd backend
+python -m venv venv
+source venv/bin/activate  # or `venv\Scripts\activate` on Windows
+pip install -r requirements.txt
+Note: Temporarily move the files inside the venv dir outside temporarily
+
+3.Environment
+Note: create `key.env` file in the backend folder inside the venv once it is created with the below structure.
+HUGGINGFACE_API_KEY=your_hf_key
+SECRET_KEY=your_jwt_secret
+
+4.Run FastAPI server
+uvicorn main:app --reload
+
+5.Frontend (From the /code/src directory of the project)
+cd frontend
+npm install
+npm start
+
+
+TECH-STACK
+🔹 Frontend: React, Material UI
+
+🔹 Backend: FastAPI (Python)
+
+🔹 Database: MongoDB
+
+🔹 Models: Hugging Face Transformers (roberta, Mistral 7B, etc.)
+
+🔹 Authentication: JWT (PyJWT)
+
+🔹 Deployment: Uvicorn / Localhost
+
+Team:
+Sana, Vikramasimha Reddy - Software Engineer
+Lal, Goutham S - Software Engineer
+Dixit, Chinmay - Software Engineer
+Chanda, Susmitha - Software Engineer
+G, Sharan - Intern Analyst
