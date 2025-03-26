@@ -1,0 +1,1001 @@
+Customer ID,Age,Gender,Location,Interests,Preferences,Income,Education,Occupation
+CUST0001,56,Male,San Francisco,Fashion,High-end,87124,Master's,Scientist
+CUST0002,46,Female,Miami,Tech,High-end,95149,Bachelor's,Entrepreneur
+CUST0003,32,Male,Chicago,Tech,Premium,56616,Master's,Scientist
+CUST0004,60,Female,San Francisco,Tech,Budget,109655,High School,Doctor
+CUST0005,25,Female,Los Angeles,Fashion,Eco-friendly,120695,Bachelor's,Entrepreneur
+CUST0006,38,Female,Houston,Travel,Eco-friendly,84567,Bachelor's,Engineer
+CUST0007,56,Male,Chicago,Gaming,Eco-friendly,67099,High School,Entrepreneur
+CUST0008,36,Male,Chicago,Fashion,Budget,105831,PhD,Doctor
+CUST0009,40,Male,Miami,Health,Eco-friendly,130246,Bachelor's,Teacher
+CUST0010,28,Female,Chicago,Finance,Eco-friendly,91799,PhD,Entrepreneur
+CUST0011,28,Female,Los Angeles,Travel,Premium,120221,Bachelor's,Scientist
+CUST0012,41,Non-Binary,Los Angeles,Health,Budget,144879,Bachelor's,Scientist
+CUST0013,53,Male,New York,Gaming,High-end,55479,PhD,Teacher
+CUST0014,57,Female,Los Angeles,Tech,Premium,76172,Bachelor's,Doctor
+CUST0015,41,Female,San Francisco,Gaming,Premium,129165,PhD,Artist
+CUST0016,20,Male,Chicago,Fashion,High-end,85863,High School,Scientist
+CUST0017,39,Male,Los Angeles,Finance,Premium,72043,PhD,Engineer
+CUST0018,19,Female,Miami,Fashion,Budget,112569,High School,Doctor
+CUST0019,41,Female,New York,Travel,Eco-friendly,132438,Bachelor's,Entrepreneur
+CUST0020,61,Female,Chicago,Travel,Budget,140107,PhD,Entrepreneur
+CUST0021,47,Male,New York,Finance,High-end,45408,Bachelor's,Engineer
+CUST0022,55,Female,Chicago,Health,High-end,87980,PhD,Scientist
+CUST0023,19,Male,Miami,Health,Premium,112956,High School,Doctor
+CUST0024,38,Male,New York,Travel,Budget,46351,High School,Engineer
+CUST0025,50,Male,Houston,Travel,Budget,34131,PhD,Scientist
+CUST0026,29,Female,San Francisco,Tech,High-end,146836,High School,Doctor
+CUST0027,39,Female,San Francisco,Health,Budget,74825,Bachelor's,Entrepreneur
+CUST0028,61,Female,Chicago,Finance,High-end,41349,Bachelor's,Doctor
+CUST0029,42,Male,Houston,Health,Budget,90931,Master's,Teacher
+CUST0030,44,Female,New York,Tech,Budget,74254,High School,Artist
+CUST0031,59,Male,Houston,Fashion,Budget,68225,Bachelor's,Doctor
+CUST0032,45,Female,Houston,Travel,High-end,134383,PhD,Artist
+CUST0033,33,Male,New York,Travel,Premium,42453,High School,Doctor
+CUST0034,32,Male,Miami,Tech,Budget,48814,Bachelor's,Artist
+CUST0035,64,Male,Houston,Finance,High-end,48263,High School,Teacher
+CUST0036,61,Male,Houston,Travel,High-end,107694,PhD,Entrepreneur
+CUST0037,20,Female,Miami,Gaming,Budget,45735,Bachelor's,Scientist
+CUST0038,54,Female,Houston,Travel,Budget,45830,Master's,Artist
+CUST0039,24,Male,Houston,Gaming,Premium,77893,Master's,Teacher
+CUST0040,38,Female,Houston,Tech,High-end,74673,High School,Artist
+CUST0041,26,Male,San Francisco,Tech,High-end,119462,PhD,Entrepreneur
+CUST0042,56,Female,Los Angeles,Travel,Eco-friendly,75066,Bachelor's,Artist
+CUST0043,35,Female,Miami,Health,High-end,130315,PhD,Teacher
+CUST0044,21,Female,Houston,Gaming,Premium,33373,Bachelor's,Teacher
+CUST0045,42,Male,San Francisco,Finance,Eco-friendly,40335,High School,Engineer
+CUST0046,31,Female,Miami,Travel,Eco-friendly,53741,Bachelor's,Entrepreneur
+CUST0047,26,Female,Chicago,Finance,Eco-friendly,40692,PhD,Engineer
+CUST0048,43,Male,Chicago,Travel,Budget,77295,PhD,Entrepreneur
+CUST0049,19,Male,Houston,Health,Budget,75541,High School,Artist
+CUST0050,37,Female,San Francisco,Health,High-end,64057,PhD,Teacher
+CUST0051,45,Female,San Francisco,Health,Eco-friendly,96983,Bachelor's,Engineer
+CUST0052,64,Female,Miami,Fashion,Premium,49583,High School,Artist
+CUST0053,24,Female,Miami,Health,Budget,52765,Bachelor's,Teacher
+CUST0054,61,Female,San Francisco,Tech,Premium,89287,PhD,Entrepreneur
+CUST0055,25,Male,Miami,Tech,Premium,53906,High School,Teacher
+CUST0056,64,Male,San Francisco,Fashion,Budget,115103,Bachelor's,Artist
+CUST0057,52,Male,Los Angeles,Gaming,Budget,109675,PhD,Engineer
+CUST0058,31,Female,San Francisco,Finance,Budget,76525,PhD,Engineer
+CUST0059,34,Male,Chicago,Travel,Budget,68230,Master's,Teacher
+CUST0060,53,Female,Miami,Travel,Eco-friendly,147904,PhD,Artist
+CUST0061,57,Female,San Francisco,Fashion,Eco-friendly,49520,Bachelor's,Doctor
+CUST0062,21,Female,San Francisco,Tech,Eco-friendly,115238,High School,Entrepreneur
+CUST0063,19,Male,Miami,Travel,Eco-friendly,81934,Master's,Entrepreneur
+CUST0064,23,Female,Los Angeles,Tech,High-end,55566,PhD,Artist
+CUST0065,59,Male,Los Angeles,Gaming,Eco-friendly,103193,PhD,Doctor
+CUST0066,21,Female,Miami,Finance,Budget,133224,PhD,Engineer
+CUST0067,46,Male,New York,Gaming,Premium,60134,Bachelor's,Scientist
+CUST0068,35,Male,Miami,Fashion,Eco-friendly,40345,Master's,Scientist
+CUST0069,43,Female,Miami,Health,High-end,71185,Bachelor's,Artist
+CUST0070,61,Male,Los Angeles,Health,Budget,145464,Master's,Doctor
+CUST0071,51,Male,Los Angeles,Health,Premium,122949,High School,Doctor
+CUST0072,27,Female,Miami,Gaming,Premium,100744,Bachelor's,Entrepreneur
+CUST0073,53,Female,Miami,Travel,Eco-friendly,63455,Bachelor's,Engineer
+CUST0074,31,Female,Miami,Finance,Premium,145217,High School,Teacher
+CUST0075,48,Female,Los Angeles,Health,Eco-friendly,58018,Master's,Doctor
+CUST0076,32,Female,Miami,Fashion,Eco-friendly,84219,PhD,Teacher
+CUST0077,25,Male,Miami,Fashion,Budget,75991,High School,Scientist
+CUST0078,31,Male,Houston,Health,Budget,103616,PhD,Teacher
+CUST0079,40,Male,New York,Health,High-end,117438,PhD,Engineer
+CUST0080,57,Female,Chicago,Finance,Budget,146841,High School,Engineer
+CUST0081,38,Female,New York,Health,Budget,39486,Master's,Teacher
+CUST0082,33,Male,Houston,Finance,Eco-friendly,68862,PhD,Artist
+CUST0083,62,Male,Chicago,Fashion,Budget,88870,High School,Doctor
+CUST0084,35,Female,Miami,Health,Eco-friendly,116694,Bachelor's,Artist
+CUST0085,64,Male,Houston,Gaming,Eco-friendly,135996,Bachelor's,Teacher
+CUST0086,41,Female,Miami,Gaming,Budget,73856,Bachelor's,Doctor
+CUST0087,43,Female,Los Angeles,Fashion,High-end,131407,High School,Entrepreneur
+CUST0088,42,Female,San Francisco,Finance,High-end,130744,Bachelor's,Artist
+CUST0089,62,Male,Houston,Gaming,Premium,116055,PhD,Artist
+CUST0090,58,Female,Los Angeles,Finance,Premium,61379,Bachelor's,Teacher
+CUST0091,46,Female,Houston,Gaming,Budget,94729,Bachelor's,Scientist
+CUST0092,32,Female,Houston,Gaming,High-end,58378,PhD,Teacher
+CUST0093,62,Female,Los Angeles,Finance,Eco-friendly,135428,Bachelor's,Artist
+CUST0094,18,Female,Chicago,Travel,Premium,84353,PhD,Doctor
+CUST0095,42,Female,New York,Gaming,Eco-friendly,79996,Bachelor's,Scientist
+CUST0096,24,Male,Miami,Health,Premium,44031,PhD,Teacher
+CUST0097,26,Female,Houston,Fashion,Budget,110072,Bachelor's,Teacher
+CUST0098,41,Female,Miami,Travel,High-end,95982,PhD,Artist
+CUST0099,18,Male,San Francisco,Finance,Premium,66683,High School,Artist
+CUST0100,61,Female,Los Angeles,Travel,High-end,144091,PhD,Entrepreneur
+CUST0101,25,Female,Miami,Tech,Eco-friendly,147797,Bachelor's,Teacher
+CUST0102,41,Female,Los Angeles,Tech,Budget,47618,Bachelor's,Artist
+CUST0103,28,Male,Miami,Gaming,High-end,36587,Master's,Engineer
+CUST0104,34,Male,New York,Gaming,Budget,92790,PhD,Scientist
+CUST0105,25,Non-Binary,New York,Health,High-end,61480,High School,Engineer
+CUST0106,52,Female,New York,Fashion,Eco-friendly,128530,PhD,Scientist
+CUST0107,52,Male,New York,Travel,Eco-friendly,50527,PhD,Teacher
+CUST0108,50,Female,New York,Tech,Budget,53569,High School,Entrepreneur
+CUST0109,22,Female,New York,Gaming,Eco-friendly,41151,PhD,Artist
+CUST0110,59,Female,Los Angeles,Fashion,Premium,101094,High School,Artist
+CUST0111,56,Female,Houston,Travel,High-end,89174,High School,Artist
+CUST0112,58,Male,Miami,Gaming,Eco-friendly,74739,PhD,Teacher
+CUST0113,45,Male,New York,Gaming,Premium,62954,PhD,Scientist
+CUST0114,24,Male,Los Angeles,Tech,Budget,142984,Bachelor's,Artist
+CUST0115,26,Female,Los Angeles,Tech,Premium,142863,Bachelor's,Engineer
+CUST0116,25,Male,Los Angeles,Gaming,Budget,139373,Master's,Artist
+CUST0117,29,Male,Houston,Finance,Budget,65303,Master's,Teacher
+CUST0118,51,Male,Miami,Gaming,High-end,64700,PhD,Entrepreneur
+CUST0119,50,Female,Houston,Fashion,High-end,123036,High School,Engineer
+CUST0120,40,Female,Chicago,Gaming,Premium,97568,Master's,Artist
+CUST0121,41,Male,Los Angeles,Health,High-end,96788,PhD,Artist
+CUST0122,54,Male,Chicago,Health,High-end,101045,Master's,Doctor
+CUST0123,52,Female,San Francisco,Health,High-end,67842,High School,Scientist
+CUST0124,61,Male,New York,Finance,Premium,43900,PhD,Engineer
+CUST0125,57,Male,New York,Finance,Eco-friendly,110059,High School,Doctor
+CUST0126,39,Male,Houston,Gaming,High-end,31881,PhD,Entrepreneur
+CUST0127,44,Male,Miami,Health,High-end,63037,Master's,Scientist
+CUST0128,52,Male,Chicago,Finance,Premium,31630,Bachelor's,Engineer
+CUST0129,18,Female,Miami,Tech,Eco-friendly,50789,Master's,Artist
+CUST0130,52,Male,Houston,Gaming,High-end,118059,Master's,Engineer
+CUST0131,54,Female,New York,Fashion,Budget,113494,Bachelor's,Artist
+CUST0132,64,Male,Miami,Travel,Premium,76151,Bachelor's,Scientist
+CUST0133,31,Female,Miami,Gaming,High-end,78920,PhD,Artist
+CUST0134,20,Female,New York,Travel,High-end,139388,PhD,Entrepreneur
+CUST0135,18,Male,Chicago,Health,Budget,97231,High School,Teacher
+CUST0136,22,Female,New York,Travel,Budget,147946,High School,Artist
+CUST0137,43,Male,Miami,Health,Premium,110357,Master's,Entrepreneur
+CUST0138,31,Non-Binary,Chicago,Tech,Premium,33262,Bachelor's,Teacher
+CUST0139,56,Male,Chicago,Travel,Budget,96981,High School,Scientist
+CUST0140,44,Male,New York,Gaming,Premium,111972,Master's,Scientist
+CUST0141,26,Male,Miami,Health,Budget,105485,Bachelor's,Engineer
+CUST0142,32,Non-Binary,Houston,Gaming,High-end,84722,PhD,Entrepreneur
+CUST0143,32,Female,Miami,Finance,Budget,119499,Master's,Entrepreneur
+CUST0144,43,Female,Los Angeles,Health,Budget,80818,PhD,Doctor
+CUST0145,59,Male,San Francisco,Travel,Eco-friendly,59932,High School,Doctor
+CUST0146,30,Female,Houston,Health,Budget,36901,High School,Teacher
+CUST0147,49,Male,Chicago,Gaming,Budget,147473,Bachelor's,Teacher
+CUST0148,56,Female,Houston,Tech,Eco-friendly,129023,Master's,Doctor
+CUST0149,49,Male,Chicago,Health,Premium,38597,PhD,Teacher
+CUST0150,21,Male,Chicago,Travel,Eco-friendly,93909,Bachelor's,Artist
+CUST0151,47,Male,Houston,Finance,High-end,102391,High School,Doctor
+CUST0152,54,Male,Chicago,Fashion,Eco-friendly,114214,High School,Entrepreneur
+CUST0153,40,Female,Chicago,Tech,High-end,38263,Master's,Artist
+CUST0154,56,Male,Los Angeles,Finance,Premium,93293,PhD,Teacher
+CUST0155,62,Female,Miami,Health,Eco-friendly,142824,Master's,Scientist
+CUST0156,32,Male,Miami,Gaming,Eco-friendly,55805,PhD,Engineer
+CUST0157,60,Female,San Francisco,Gaming,Premium,121679,PhD,Doctor
+CUST0158,46,Male,San Francisco,Travel,High-end,41874,Master's,Scientist
+CUST0159,53,Male,Los Angeles,Gaming,Eco-friendly,123065,Bachelor's,Teacher
+CUST0160,30,Female,San Francisco,Tech,High-end,116402,Master's,Entrepreneur
+CUST0161,49,Male,Houston,Gaming,Eco-friendly,44079,Master's,Engineer
+CUST0162,24,Male,New York,Travel,Budget,79850,High School,Scientist
+CUST0163,39,Female,New York,Fashion,Eco-friendly,102779,High School,Engineer
+CUST0164,45,Female,New York,Health,Premium,125408,Master's,Doctor
+CUST0165,19,Male,Los Angeles,Health,Premium,39018,Master's,Teacher
+CUST0166,59,Male,Los Angeles,Gaming,High-end,79500,High School,Entrepreneur
+CUST0167,62,Female,Chicago,Finance,Eco-friendly,42100,PhD,Teacher
+CUST0168,23,Male,New York,Health,High-end,87021,Master's,Engineer
+CUST0169,45,Male,Houston,Fashion,High-end,144995,Bachelor's,Scientist
+CUST0170,45,Male,San Francisco,Gaming,Budget,49800,Bachelor's,Doctor
+CUST0171,61,Female,Houston,Travel,Budget,93400,Bachelor's,Doctor
+CUST0172,61,Female,San Francisco,Fashion,Premium,122446,Master's,Teacher
+CUST0173,37,Male,New York,Gaming,High-end,59437,PhD,Scientist
+CUST0174,47,Male,New York,Fashion,Premium,133124,PhD,Scientist
+CUST0175,28,Male,New York,Health,Eco-friendly,106537,High School,Engineer
+CUST0176,45,Female,Los Angeles,Travel,High-end,76675,Master's,Teacher
+CUST0177,42,Male,San Francisco,Gaming,High-end,49942,PhD,Teacher
+CUST0178,56,Male,Los Angeles,Tech,Eco-friendly,50862,Master's,Artist
+CUST0179,50,Female,Los Angeles,Travel,Eco-friendly,41669,High School,Teacher
+CUST0180,18,Male,Miami,Tech,Premium,83772,High School,Doctor
+CUST0181,44,Female,Houston,Fashion,Premium,45916,High School,Engineer
+CUST0182,30,Male,Houston,Finance,Eco-friendly,40878,Bachelor's,Scientist
+CUST0183,58,Male,Chicago,Travel,Premium,32985,Master's,Teacher
+CUST0184,20,Male,Los Angeles,Fashion,Eco-friendly,127905,High School,Engineer
+CUST0185,56,Female,San Francisco,Tech,High-end,103648,Master's,Teacher
+CUST0186,23,Female,Miami,Health,High-end,71235,Bachelor's,Scientist
+CUST0187,25,Female,Miami,Health,Budget,48931,Bachelor's,Entrepreneur
+CUST0188,44,Male,Houston,Finance,High-end,122876,High School,Scientist
+CUST0189,26,Female,Los Angeles,Travel,Eco-friendly,30336,High School,Scientist
+CUST0190,54,Male,Chicago,Travel,Premium,72933,PhD,Scientist
+CUST0191,50,Male,Los Angeles,Travel,Budget,114899,Master's,Teacher
+CUST0192,59,Female,New York,Fashion,Premium,75536,High School,Artist
+CUST0193,61,Male,Los Angeles,Finance,Eco-friendly,99504,PhD,Scientist
+CUST0194,41,Male,New York,Travel,High-end,129214,Master's,Doctor
+CUST0195,32,Male,New York,Fashion,Budget,81148,High School,Doctor
+CUST0196,49,Male,Chicago,Health,Eco-friendly,143936,PhD,Engineer
+CUST0197,49,Male,San Francisco,Tech,Budget,46279,PhD,Artist
+CUST0198,41,Female,Houston,Fashion,Budget,98665,Master's,Engineer
+CUST0199,58,Male,Los Angeles,Health,High-end,133751,PhD,Doctor
+CUST0200,29,Female,New York,Health,Eco-friendly,134433,Master's,Doctor
+CUST0201,56,Female,Los Angeles,Tech,Premium,101386,Master's,Entrepreneur
+CUST0202,19,Male,San Francisco,Health,Budget,116124,Master's,Scientist
+CUST0203,20,Male,Houston,Finance,Budget,135750,Bachelor's,Doctor
+CUST0204,54,Male,San Francisco,Tech,Premium,107485,PhD,Teacher
+CUST0205,34,Female,Houston,Health,Eco-friendly,104055,Master's,Teacher
+CUST0206,19,Male,Miami,Gaming,Budget,121911,High School,Engineer
+CUST0207,19,Female,Houston,Fashion,Budget,128618,Bachelor's,Engineer
+CUST0208,45,Male,Chicago,Health,Budget,107273,Bachelor's,Scientist
+CUST0209,40,Female,San Francisco,Finance,Eco-friendly,96670,PhD,Scientist
+CUST0210,54,Male,New York,Travel,Eco-friendly,106474,Master's,Entrepreneur
+CUST0211,49,Male,Miami,Health,Premium,84028,PhD,Artist
+CUST0212,50,Female,Chicago,Travel,Eco-friendly,120022,Bachelor's,Engineer
+CUST0213,18,Female,Los Angeles,Gaming,Eco-friendly,143892,Master's,Scientist
+CUST0214,36,Male,San Francisco,Health,High-end,121632,High School,Engineer
+CUST0215,19,Female,New York,Tech,Premium,136651,Master's,Scientist
+CUST0216,61,Female,Houston,Travel,Budget,101128,Bachelor's,Doctor
+CUST0217,43,Female,New York,Gaming,Eco-friendly,48108,High School,Engineer
+CUST0218,49,Female,Los Angeles,Tech,Budget,82495,Master's,Doctor
+CUST0219,23,Male,Miami,Tech,Budget,112806,High School,Engineer
+CUST0220,49,Male,Miami,Tech,High-end,123185,High School,Artist
+CUST0221,21,Male,San Francisco,Tech,Eco-friendly,106533,Bachelor's,Entrepreneur
+CUST0222,28,Female,Miami,Health,Premium,129025,High School,Teacher
+CUST0223,34,Female,San Francisco,Fashion,Eco-friendly,86830,PhD,Teacher
+CUST0224,55,Male,San Francisco,Health,Budget,104640,Bachelor's,Teacher
+CUST0225,41,Male,San Francisco,Health,Premium,82509,PhD,Doctor
+CUST0226,22,Female,Houston,Gaming,Eco-friendly,96406,High School,Scientist
+CUST0227,51,Non-Binary,Chicago,Gaming,Budget,124220,PhD,Teacher
+CUST0228,23,Female,San Francisco,Fashion,Budget,69519,Master's,Artist
+CUST0229,39,Male,San Francisco,Gaming,High-end,79649,High School,Teacher
+CUST0230,28,Male,Chicago,Finance,High-end,64524,Master's,Engineer
+CUST0231,33,Male,New York,Fashion,High-end,126493,PhD,Doctor
+CUST0232,50,Female,San Francisco,Gaming,Budget,63885,Master's,Engineer
+CUST0233,26,Male,Houston,Fashion,Eco-friendly,74369,High School,Engineer
+CUST0234,23,Female,Miami,Health,High-end,131132,Master's,Engineer
+CUST0235,33,Male,Miami,Health,Eco-friendly,125402,PhD,Entrepreneur
+CUST0236,46,Female,Los Angeles,Fashion,High-end,60676,PhD,Entrepreneur
+CUST0237,20,Female,Los Angeles,Finance,Premium,94093,PhD,Scientist
+CUST0238,37,Female,Miami,Finance,Premium,77764,High School,Doctor
+CUST0239,53,Male,Miami,Fashion,High-end,80799,PhD,Artist
+CUST0240,36,Male,Houston,Gaming,Budget,109414,High School,Artist
+CUST0241,43,Male,Chicago,Travel,High-end,135296,Master's,Artist
+CUST0242,20,Female,Los Angeles,Finance,High-end,123095,PhD,Engineer
+CUST0243,36,Female,Chicago,Tech,Budget,142082,Master's,Entrepreneur
+CUST0244,37,Female,Houston,Health,Premium,102307,Bachelor's,Doctor
+CUST0245,49,Female,Miami,Fashion,Eco-friendly,112062,Master's,Engineer
+CUST0246,24,Female,San Francisco,Tech,High-end,125432,Bachelor's,Entrepreneur
+CUST0247,58,Male,Chicago,Fashion,Budget,61923,Master's,Entrepreneur
+CUST0248,50,Female,Miami,Health,High-end,147449,High School,Teacher
+CUST0249,57,Male,Miami,Health,Budget,131739,Master's,Teacher
+CUST0250,56,Male,New York,Finance,Eco-friendly,134926,High School,Doctor
+CUST0251,35,Female,Chicago,Finance,Eco-friendly,108388,High School,Doctor
+CUST0252,57,Male,San Francisco,Tech,Premium,77574,PhD,Doctor
+CUST0253,18,Male,Chicago,Fashion,Budget,73391,High School,Engineer
+CUST0254,28,Female,Miami,Health,Budget,83664,Bachelor's,Scientist
+CUST0255,45,Male,San Francisco,Tech,Premium,97384,PhD,Doctor
+CUST0256,42,Female,Houston,Travel,Premium,61027,PhD,Teacher
+CUST0257,40,Male,New York,Tech,Budget,65464,Master's,Scientist
+CUST0258,48,Male,Miami,Gaming,Premium,64485,High School,Engineer
+CUST0259,47,Male,Los Angeles,Tech,Eco-friendly,49456,High School,Scientist
+CUST0260,59,Male,Los Angeles,Gaming,High-end,104795,Bachelor's,Artist
+CUST0261,52,Female,New York,Gaming,Eco-friendly,65554,Master's,Scientist
+CUST0262,24,Male,Houston,Gaming,Premium,76922,Master's,Doctor
+CUST0263,33,Female,Miami,Travel,Budget,43409,PhD,Engineer
+CUST0264,43,Male,Chicago,Tech,Budget,99327,PhD,Doctor
+CUST0265,19,Female,New York,Tech,Eco-friendly,121400,PhD,Teacher
+CUST0266,18,Female,Houston,Travel,Budget,66639,Bachelor's,Artist
+CUST0267,29,Female,Chicago,Health,Premium,130110,Bachelor's,Teacher
+CUST0268,22,Male,Los Angeles,Finance,Eco-friendly,93627,PhD,Doctor
+CUST0269,54,Male,Los Angeles,Tech,Budget,113424,Master's,Doctor
+CUST0270,49,Male,Chicago,Finance,High-end,49692,Bachelor's,Doctor
+CUST0271,26,Female,New York,Fashion,High-end,119037,Master's,Entrepreneur
+CUST0272,58,Male,Los Angeles,Fashion,Premium,108840,Master's,Artist
+CUST0273,52,Female,Miami,Travel,Budget,84200,High School,Doctor
+CUST0274,36,Female,San Francisco,Fashion,Premium,123063,PhD,Doctor
+CUST0275,33,Male,Chicago,Fashion,Eco-friendly,87415,High School,Teacher
+CUST0276,20,Female,Chicago,Health,High-end,48074,PhD,Teacher
+CUST0277,37,Male,Los Angeles,Health,Eco-friendly,45549,PhD,Doctor
+CUST0278,41,Male,New York,Health,Budget,59963,Master's,Engineer
+CUST0279,50,Female,Miami,Fashion,Premium,121456,PhD,Entrepreneur
+CUST0280,41,Female,New York,Travel,Premium,126362,Master's,Teacher
+CUST0281,28,Female,Houston,Gaming,Premium,131607,Master's,Engineer
+CUST0282,25,Male,Houston,Gaming,Eco-friendly,82265,PhD,Entrepreneur
+CUST0283,53,Male,San Francisco,Finance,High-end,46061,Master's,Doctor
+CUST0284,55,Female,Los Angeles,Gaming,Eco-friendly,88226,Master's,Artist
+CUST0285,57,Female,Los Angeles,Gaming,Eco-friendly,58810,Master's,Scientist
+CUST0286,37,Female,Los Angeles,Health,Budget,90006,Bachelor's,Scientist
+CUST0287,52,Male,San Francisco,Health,Budget,143502,Master's,Doctor
+CUST0288,42,Female,Houston,Fashion,Budget,52800,Bachelor's,Teacher
+CUST0289,52,Male,New York,Finance,High-end,146192,Bachelor's,Engineer
+CUST0290,42,Male,San Francisco,Tech,High-end,138959,Master's,Artist
+CUST0291,46,Female,San Francisco,Finance,Budget,137228,Master's,Entrepreneur
+CUST0292,35,Male,New York,Finance,Budget,105476,Bachelor's,Doctor
+CUST0293,63,Female,Los Angeles,Travel,High-end,99460,Bachelor's,Artist
+CUST0294,35,Male,Miami,Fashion,Premium,87767,Master's,Artist
+CUST0295,19,Male,New York,Travel,High-end,58054,Master's,Teacher
+CUST0296,52,Female,Houston,Finance,High-end,105319,PhD,Entrepreneur
+CUST0297,33,Female,Chicago,Finance,High-end,132789,Bachelor's,Artist
+CUST0298,58,Female,Chicago,Finance,Budget,75397,Bachelor's,Teacher
+CUST0299,53,Female,San Francisco,Gaming,Premium,43233,PhD,Engineer
+CUST0300,50,Female,Chicago,Travel,High-end,141205,Bachelor's,Teacher
+CUST0301,21,Female,Miami,Finance,Budget,120020,High School,Engineer
+CUST0302,50,Female,Los Angeles,Health,Eco-friendly,55068,Bachelor's,Engineer
+CUST0303,31,Male,Houston,Fashion,Eco-friendly,95727,PhD,Artist
+CUST0304,38,Female,Miami,Fashion,High-end,120610,High School,Teacher
+CUST0305,37,Male,Houston,Health,Eco-friendly,100453,Master's,Engineer
+CUST0306,25,Non-Binary,Houston,Fashion,Premium,134135,PhD,Entrepreneur
+CUST0307,24,Female,Los Angeles,Gaming,Eco-friendly,55832,PhD,Artist
+CUST0308,20,Male,San Francisco,Gaming,Eco-friendly,138464,Master's,Teacher
+CUST0309,34,Female,Chicago,Tech,Premium,116242,PhD,Teacher
+CUST0310,50,Female,Los Angeles,Tech,High-end,43682,Bachelor's,Scientist
+CUST0311,29,Male,Miami,Tech,High-end,122298,Master's,Teacher
+CUST0312,39,Female,San Francisco,Fashion,Premium,53383,PhD,Artist
+CUST0313,39,Female,Miami,Gaming,Premium,88160,Master's,Entrepreneur
+CUST0314,63,Male,San Francisco,Gaming,Premium,123332,Master's,Teacher
+CUST0315,47,Female,Miami,Gaming,Eco-friendly,53666,Master's,Scientist
+CUST0316,55,Male,Los Angeles,Health,Premium,88817,High School,Artist
+CUST0317,55,Female,San Francisco,Gaming,Budget,121198,PhD,Engineer
+CUST0318,62,Non-Binary,San Francisco,Health,Eco-friendly,140695,High School,Doctor
+CUST0319,25,Female,Houston,Tech,High-end,64642,PhD,Doctor
+CUST0320,44,Male,Houston,Tech,High-end,71830,Bachelor's,Engineer
+CUST0321,44,Female,New York,Fashion,High-end,133067,Bachelor's,Teacher
+CUST0322,51,Female,Miami,Tech,Eco-friendly,40234,Bachelor's,Doctor
+CUST0323,38,Male,Houston,Fashion,Budget,87616,PhD,Doctor
+CUST0324,47,Female,New York,Finance,Premium,39221,Master's,Engineer
+CUST0325,50,Male,Houston,Finance,Premium,41410,Master's,Teacher
+CUST0326,45,Female,Miami,Travel,High-end,110055,High School,Teacher
+CUST0327,64,Male,San Francisco,Fashion,High-end,91413,High School,Engineer
+CUST0328,50,Male,Chicago,Travel,Eco-friendly,31051,Bachelor's,Teacher
+CUST0329,22,Male,Miami,Travel,Budget,140529,High School,Teacher
+CUST0330,36,Female,Los Angeles,Finance,Premium,105301,PhD,Artist
+CUST0331,21,Male,Houston,Fashion,Eco-friendly,106918,PhD,Artist
+CUST0332,52,Female,Houston,Finance,Premium,108116,High School,Engineer
+CUST0333,34,Male,San Francisco,Travel,High-end,86563,High School,Entrepreneur
+CUST0334,61,Male,Los Angeles,Fashion,Premium,127859,High School,Doctor
+CUST0335,45,Female,San Francisco,Travel,Budget,74757,High School,Artist
+CUST0336,47,Female,Los Angeles,Gaming,Budget,107475,Bachelor's,Doctor
+CUST0337,46,Male,Chicago,Fashion,High-end,81257,Bachelor's,Scientist
+CUST0338,63,Female,Houston,Fashion,Budget,125500,High School,Engineer
+CUST0339,23,Female,Houston,Travel,Budget,30307,PhD,Entrepreneur
+CUST0340,52,Female,Chicago,Gaming,Eco-friendly,86889,Bachelor's,Scientist
+CUST0341,58,Male,New York,Health,Premium,98895,PhD,Scientist
+CUST0342,54,Male,San Francisco,Finance,High-end,125184,Master's,Teacher
+CUST0343,41,Female,Chicago,Travel,High-end,65944,PhD,Scientist
+CUST0344,46,Male,San Francisco,Fashion,High-end,129555,High School,Engineer
+CUST0345,63,Female,Miami,Finance,High-end,68134,Master's,Artist
+CUST0346,48,Female,Houston,Finance,High-end,57323,Bachelor's,Engineer
+CUST0347,52,Female,San Francisco,Finance,Budget,146205,Bachelor's,Artist
+CUST0348,50,Female,Los Angeles,Health,Eco-friendly,101762,Master's,Scientist
+CUST0349,38,Non-Binary,San Francisco,Tech,High-end,117225,PhD,Scientist
+CUST0350,49,Male,Miami,Travel,Eco-friendly,126507,Bachelor's,Entrepreneur
+CUST0351,40,Female,Houston,Tech,Eco-friendly,55954,High School,Artist
+CUST0352,50,Male,Chicago,Tech,Budget,85021,Master's,Scientist
+CUST0353,20,Male,Miami,Tech,High-end,119959,High School,Teacher
+CUST0354,35,Female,Houston,Finance,Budget,125927,Master's,Doctor
+CUST0355,42,Female,San Francisco,Gaming,High-end,109866,Bachelor's,Entrepreneur
+CUST0356,59,Non-Binary,New York,Finance,Budget,100427,PhD,Engineer
+CUST0357,48,Female,New York,Finance,Eco-friendly,34992,Master's,Entrepreneur
+CUST0358,20,Male,Los Angeles,Fashion,High-end,31961,Master's,Doctor
+CUST0359,57,Male,Houston,Fashion,Premium,42497,High School,Artist
+CUST0360,63,Female,New York,Tech,Eco-friendly,147551,Bachelor's,Engineer
+CUST0361,41,Male,Chicago,Finance,Premium,62551,High School,Engineer
+CUST0362,49,Male,Houston,Tech,Eco-friendly,106384,Bachelor's,Artist
+CUST0363,64,Male,Chicago,Fashion,Budget,85755,High School,Entrepreneur
+CUST0364,39,Male,Chicago,Gaming,High-end,43255,Master's,Scientist
+CUST0365,40,Male,New York,Travel,Eco-friendly,34567,High School,Entrepreneur
+CUST0366,19,Male,Houston,Tech,Budget,78847,PhD,Doctor
+CUST0367,44,Male,San Francisco,Gaming,High-end,134817,Bachelor's,Teacher
+CUST0368,59,Male,Miami,Travel,High-end,78003,Bachelor's,Scientist
+CUST0369,19,Non-Binary,New York,Health,Eco-friendly,50389,Master's,Entrepreneur
+CUST0370,43,Male,New York,Tech,High-end,74523,Bachelor's,Teacher
+CUST0371,34,Male,San Francisco,Tech,Eco-friendly,91576,PhD,Teacher
+CUST0372,57,Female,Houston,Health,High-end,73919,High School,Artist
+CUST0373,50,Male,Houston,Health,Premium,112103,Master's,Doctor
+CUST0374,26,Female,Chicago,Tech,Budget,33358,PhD,Doctor
+CUST0375,60,Female,San Francisco,Health,Premium,118535,Bachelor's,Doctor
+CUST0376,56,Male,San Francisco,Finance,Eco-friendly,137894,Bachelor's,Scientist
+CUST0377,46,Male,Houston,Travel,Premium,106524,PhD,Engineer
+CUST0378,59,Female,Chicago,Travel,Eco-friendly,135982,High School,Scientist
+CUST0379,43,Female,New York,Travel,High-end,127057,High School,Entrepreneur
+CUST0380,52,Male,Los Angeles,Finance,High-end,35698,Master's,Teacher
+CUST0381,42,Female,Miami,Health,Eco-friendly,96809,Bachelor's,Teacher
+CUST0382,41,Male,New York,Gaming,Premium,123079,PhD,Engineer
+CUST0383,30,Non-Binary,Houston,Health,High-end,85805,High School,Entrepreneur
+CUST0384,24,Male,Miami,Tech,Budget,61349,Master's,Engineer
+CUST0385,53,Female,Los Angeles,Fashion,High-end,106777,Bachelor's,Teacher
+CUST0386,62,Female,Los Angeles,Travel,Budget,80248,Bachelor's,Scientist
+CUST0387,37,Female,Chicago,Health,Premium,105033,Master's,Doctor
+CUST0388,18,Female,Miami,Gaming,Budget,137411,Master's,Teacher
+CUST0389,25,Male,Chicago,Tech,Budget,128239,High School,Artist
+CUST0390,63,Male,New York,Finance,Budget,74041,PhD,Doctor
+CUST0391,33,Male,San Francisco,Finance,Budget,61954,Bachelor's,Teacher
+CUST0392,31,Male,San Francisco,Gaming,High-end,38002,PhD,Scientist
+CUST0393,29,Female,San Francisco,Tech,Budget,99783,Bachelor's,Engineer
+CUST0394,40,Male,Miami,Travel,High-end,137524,Bachelor's,Doctor
+CUST0395,32,Male,San Francisco,Health,Budget,117234,PhD,Scientist
+CUST0396,45,Non-Binary,New York,Tech,Eco-friendly,49738,Master's,Entrepreneur
+CUST0397,51,Female,Chicago,Finance,Premium,40703,High School,Artist
+CUST0398,19,Female,Miami,Gaming,Budget,143776,Bachelor's,Doctor
+CUST0399,49,Non-Binary,Chicago,Gaming,Eco-friendly,79422,Master's,Engineer
+CUST0400,40,Male,Miami,Health,Budget,113106,Bachelor's,Entrepreneur
+CUST0401,39,Male,Chicago,Gaming,Budget,91899,High School,Scientist
+CUST0402,42,Female,Los Angeles,Gaming,Budget,42392,Bachelor's,Artist
+CUST0403,39,Female,Chicago,Tech,Eco-friendly,74724,High School,Engineer
+CUST0404,39,Male,San Francisco,Travel,Premium,62299,High School,Scientist
+CUST0405,59,Female,Los Angeles,Health,Eco-friendly,45641,Bachelor's,Scientist
+CUST0406,23,Male,Chicago,Tech,Premium,109534,Bachelor's,Doctor
+CUST0407,32,Male,Miami,Travel,Budget,36305,High School,Doctor
+CUST0408,60,Female,Miami,Tech,High-end,128262,Master's,Engineer
+CUST0409,54,Female,Miami,Fashion,Budget,48782,PhD,Teacher
+CUST0410,50,Female,Houston,Tech,Premium,108257,High School,Teacher
+CUST0411,25,Male,New York,Gaming,Eco-friendly,135299,Bachelor's,Scientist
+CUST0412,61,Female,Miami,Travel,Budget,107963,Bachelor's,Doctor
+CUST0413,61,Male,Los Angeles,Health,Eco-friendly,142086,Master's,Artist
+CUST0414,22,Male,Miami,Health,Eco-friendly,50566,PhD,Artist
+CUST0415,56,Female,Houston,Travel,Eco-friendly,97766,High School,Scientist
+CUST0416,21,Female,San Francisco,Gaming,Budget,36511,High School,Doctor
+CUST0417,23,Female,Los Angeles,Finance,Eco-friendly,144816,PhD,Engineer
+CUST0418,62,Female,Houston,Tech,Eco-friendly,137765,High School,Engineer
+CUST0419,49,Female,San Francisco,Gaming,Budget,148360,PhD,Engineer
+CUST0420,47,Female,Los Angeles,Fashion,Eco-friendly,56177,Bachelor's,Artist
+CUST0421,64,Male,Chicago,Travel,Budget,34765,PhD,Doctor
+CUST0422,52,Male,New York,Tech,Premium,50354,High School,Doctor
+CUST0423,57,Male,New York,Health,Premium,53929,PhD,Artist
+CUST0424,33,Male,Houston,Finance,Premium,58820,Master's,Engineer
+CUST0425,30,Female,San Francisco,Fashion,Eco-friendly,141576,Bachelor's,Engineer
+CUST0426,59,Female,New York,Health,High-end,59523,Bachelor's,Scientist
+CUST0427,47,Male,San Francisco,Travel,High-end,101088,PhD,Teacher
+CUST0428,36,Male,San Francisco,Tech,Eco-friendly,96163,High School,Entrepreneur
+CUST0429,34,Female,Houston,Travel,High-end,107525,Master's,Teacher
+CUST0430,36,Male,Houston,Tech,Budget,43780,Bachelor's,Doctor
+CUST0431,45,Female,Houston,Gaming,High-end,36589,Bachelor's,Doctor
+CUST0432,43,Female,New York,Finance,Eco-friendly,64812,High School,Doctor
+CUST0433,54,Female,Houston,Gaming,Eco-friendly,123664,High School,Teacher
+CUST0434,43,Female,New York,Gaming,Budget,75939,Master's,Entrepreneur
+CUST0435,40,Female,Houston,Travel,Premium,81493,PhD,Scientist
+CUST0436,26,Male,Miami,Finance,Eco-friendly,134188,High School,Teacher
+CUST0437,29,Female,San Francisco,Tech,Budget,123326,PhD,Entrepreneur
+CUST0438,18,Female,Houston,Tech,High-end,70953,Master's,Engineer
+CUST0439,18,Male,Los Angeles,Fashion,High-end,95785,PhD,Engineer
+CUST0440,64,Female,San Francisco,Health,Budget,49309,Bachelor's,Doctor
+CUST0441,51,Female,San Francisco,Fashion,Budget,84195,PhD,Artist
+CUST0442,49,Female,Houston,Fashion,Eco-friendly,145662,Master's,Doctor
+CUST0443,42,Female,Chicago,Tech,High-end,55901,Master's,Artist
+CUST0444,57,Female,Houston,Travel,Budget,53576,Master's,Entrepreneur
+CUST0445,62,Female,San Francisco,Gaming,High-end,61508,PhD,Engineer
+CUST0446,18,Female,Los Angeles,Gaming,Budget,104711,Bachelor's,Teacher
+CUST0447,33,Female,San Francisco,Gaming,High-end,55464,High School,Artist
+CUST0448,56,Female,Los Angeles,Finance,Premium,90281,Bachelor's,Entrepreneur
+CUST0449,22,Female,New York,Tech,Eco-friendly,46260,PhD,Engineer
+CUST0450,39,Female,Miami,Travel,High-end,65440,PhD,Teacher
+CUST0451,46,Male,San Francisco,Finance,Premium,125082,High School,Artist
+CUST0452,20,Female,Houston,Health,High-end,135583,PhD,Doctor
+CUST0453,29,Female,New York,Travel,High-end,86683,Master's,Doctor
+CUST0454,43,Male,Miami,Fashion,Premium,71430,Master's,Doctor
+CUST0455,33,Female,Houston,Travel,High-end,31987,Master's,Entrepreneur
+CUST0456,54,Male,Chicago,Travel,High-end,144778,Master's,Doctor
+CUST0457,39,Male,Houston,Gaming,Eco-friendly,55105,Master's,Scientist
+CUST0458,46,Female,Los Angeles,Travel,Premium,108484,PhD,Engineer
+CUST0459,31,Male,Los Angeles,Fashion,Premium,148747,High School,Entrepreneur
+CUST0460,45,Female,Chicago,Fashion,Budget,43026,High School,Teacher
+CUST0461,22,Female,New York,Tech,High-end,98309,Master's,Doctor
+CUST0462,64,Female,Miami,Travel,Eco-friendly,75927,PhD,Engineer
+CUST0463,47,Male,Houston,Gaming,High-end,105414,Bachelor's,Artist
+CUST0464,63,Male,Los Angeles,Travel,High-end,87535,Bachelor's,Doctor
+CUST0465,22,Female,New York,Health,Budget,72946,PhD,Engineer
+CUST0466,29,Non-Binary,Chicago,Health,High-end,86561,Master's,Scientist
+CUST0467,33,Female,San Francisco,Gaming,Eco-friendly,40377,High School,Artist
+CUST0468,43,Male,Los Angeles,Tech,Eco-friendly,83592,PhD,Scientist
+CUST0469,43,Female,Chicago,Tech,Budget,37347,Bachelor's,Teacher
+CUST0470,38,Female,Houston,Fashion,High-end,63776,Bachelor's,Engineer
+CUST0471,56,Female,Miami,Fashion,Eco-friendly,33783,Bachelor's,Scientist
+CUST0472,53,Male,Los Angeles,Finance,High-end,85798,Master's,Teacher
+CUST0473,50,Female,Los Angeles,Gaming,High-end,34298,Bachelor's,Engineer
+CUST0474,47,Female,Houston,Travel,High-end,100204,PhD,Engineer
+CUST0475,54,Non-Binary,San Francisco,Gaming,Budget,116207,PhD,Scientist
+CUST0476,40,Male,New York,Finance,High-end,130356,Bachelor's,Engineer
+CUST0477,27,Female,Miami,Fashion,Eco-friendly,85161,PhD,Doctor
+CUST0478,22,Female,Los Angeles,Gaming,High-end,90652,Bachelor's,Engineer
+CUST0479,53,Male,Miami,Gaming,Eco-friendly,64484,Bachelor's,Entrepreneur
+CUST0480,51,Female,Los Angeles,Fashion,High-end,128614,High School,Teacher
+CUST0481,48,Female,Miami,Finance,Eco-friendly,142695,Master's,Engineer
+CUST0482,27,Male,Chicago,Fashion,Eco-friendly,50922,Master's,Entrepreneur
+CUST0483,36,Male,Los Angeles,Tech,High-end,64028,High School,Engineer
+CUST0484,49,Female,Miami,Travel,High-end,141461,High School,Engineer
+CUST0485,18,Male,New York,Fashion,Eco-friendly,50316,Master's,Scientist
+CUST0486,22,Female,Chicago,Finance,Premium,106996,Bachelor's,Doctor
+CUST0487,62,Male,Chicago,Health,Budget,46968,Bachelor's,Teacher
+CUST0488,21,Female,New York,Tech,Premium,60266,Master's,Doctor
+CUST0489,33,Male,Miami,Health,Premium,125745,Bachelor's,Artist
+CUST0490,41,Female,Houston,Fashion,High-end,54000,High School,Scientist
+CUST0491,33,Non-Binary,New York,Tech,Budget,44011,Bachelor's,Scientist
+CUST0492,19,Non-Binary,Miami,Travel,Premium,32866,Bachelor's,Doctor
+CUST0493,45,Female,New York,Fashion,High-end,142669,PhD,Scientist
+CUST0494,49,Male,New York,Travel,Premium,35898,PhD,Doctor
+CUST0495,44,Female,Los Angeles,Gaming,Premium,48395,PhD,Scientist
+CUST0496,37,Male,Miami,Health,High-end,69019,Bachelor's,Engineer
+CUST0497,41,Male,Houston,Tech,High-end,133243,Master's,Doctor
+CUST0498,29,Male,Los Angeles,Travel,High-end,34006,High School,Doctor
+CUST0499,52,Female,New York,Finance,Budget,64393,Bachelor's,Entrepreneur
+CUST0500,50,Female,San Francisco,Travel,Premium,40956,Master's,Scientist
+CUST0501,50,Female,New York,Finance,High-end,80042,Bachelor's,Scientist
+CUST0502,60,Male,New York,Fashion,Eco-friendly,126199,High School,Doctor
+CUST0503,54,Male,Miami,Tech,Premium,36078,Bachelor's,Engineer
+CUST0504,29,Non-Binary,Miami,Travel,Eco-friendly,59631,High School,Engineer
+CUST0505,20,Male,Los Angeles,Travel,Budget,125676,Bachelor's,Teacher
+CUST0506,18,Male,Houston,Tech,High-end,92901,High School,Engineer
+CUST0507,50,Male,Los Angeles,Travel,Eco-friendly,137227,Bachelor's,Scientist
+CUST0508,57,Female,Chicago,Finance,Budget,99497,High School,Entrepreneur
+CUST0509,27,Female,New York,Travel,High-end,124813,PhD,Doctor
+CUST0510,60,Male,San Francisco,Health,Eco-friendly,147192,Bachelor's,Artist
+CUST0511,61,Male,New York,Fashion,Eco-friendly,71574,Bachelor's,Entrepreneur
+CUST0512,46,Female,New York,Gaming,Budget,148494,Master's,Artist
+CUST0513,30,Female,Los Angeles,Finance,High-end,61417,Master's,Entrepreneur
+CUST0514,29,Male,San Francisco,Health,High-end,118020,High School,Engineer
+CUST0515,48,Female,San Francisco,Fashion,Eco-friendly,113639,Bachelor's,Scientist
+CUST0516,63,Male,San Francisco,Tech,Eco-friendly,95006,High School,Artist
+CUST0517,19,Male,Los Angeles,Finance,Eco-friendly,124881,PhD,Entrepreneur
+CUST0518,52,Female,New York,Gaming,High-end,141862,Master's,Scientist
+CUST0519,40,Male,Los Angeles,Fashion,Budget,69454,High School,Artist
+CUST0520,34,Female,Miami,Gaming,Budget,31587,High School,Doctor
+CUST0521,43,Male,Miami,Tech,High-end,138107,Master's,Entrepreneur
+CUST0522,25,Male,Los Angeles,Tech,Premium,145584,Bachelor's,Doctor
+CUST0523,46,Non-Binary,San Francisco,Finance,Budget,84710,High School,Engineer
+CUST0524,43,Male,New York,Travel,Eco-friendly,116567,Master's,Doctor
+CUST0525,27,Female,Los Angeles,Tech,Premium,121748,Bachelor's,Doctor
+CUST0526,43,Male,Los Angeles,Fashion,Premium,105886,PhD,Teacher
+CUST0527,51,Male,Los Angeles,Travel,Budget,48816,Master's,Entrepreneur
+CUST0528,58,Male,Chicago,Health,Premium,115824,High School,Engineer
+CUST0529,24,Female,Miami,Gaming,Premium,59432,PhD,Doctor
+CUST0530,21,Male,San Francisco,Travel,Budget,139758,Bachelor's,Scientist
+CUST0531,62,Female,Houston,Gaming,Budget,78617,Bachelor's,Artist
+CUST0532,28,Male,San Francisco,Travel,Premium,102373,Master's,Doctor
+CUST0533,46,Non-Binary,Houston,Health,Eco-friendly,64217,Master's,Engineer
+CUST0534,53,Male,Chicago,Tech,High-end,50884,Master's,Doctor
+CUST0535,42,Female,Los Angeles,Health,Premium,35454,Bachelor's,Artist
+CUST0536,38,Female,Chicago,Tech,Premium,104960,PhD,Engineer
+CUST0537,53,Female,Chicago,Tech,Eco-friendly,132421,Bachelor's,Entrepreneur
+CUST0538,27,Female,New York,Gaming,Premium,137173,High School,Engineer
+CUST0539,54,Female,Miami,Fashion,Premium,73618,Bachelor's,Entrepreneur
+CUST0540,26,Female,Houston,Health,High-end,113948,High School,Engineer
+CUST0541,41,Male,Los Angeles,Travel,High-end,92671,PhD,Artist
+CUST0542,52,Male,Houston,Health,High-end,77111,Master's,Artist
+CUST0543,52,Female,San Francisco,Gaming,Budget,69613,Master's,Engineer
+CUST0544,53,Female,Houston,Tech,Budget,115678,Bachelor's,Doctor
+CUST0545,35,Female,San Francisco,Gaming,High-end,132928,Master's,Artist
+CUST0546,56,Female,Miami,Finance,High-end,89993,PhD,Entrepreneur
+CUST0547,49,Male,San Francisco,Finance,Budget,38848,Master's,Entrepreneur
+CUST0548,41,Male,Houston,Travel,Eco-friendly,144853,Bachelor's,Scientist
+CUST0549,40,Female,Houston,Gaming,Premium,108672,PhD,Teacher
+CUST0550,49,Male,San Francisco,Travel,Premium,149279,High School,Teacher
+CUST0551,54,Male,Chicago,Travel,High-end,96125,Bachelor's,Teacher
+CUST0552,29,Female,Miami,Finance,Eco-friendly,116444,High School,Entrepreneur
+CUST0553,30,Male,New York,Travel,Budget,147509,PhD,Scientist
+CUST0554,40,Female,Los Angeles,Finance,High-end,91602,Bachelor's,Teacher
+CUST0555,42,Male,Houston,Tech,Eco-friendly,102045,Bachelor's,Teacher
+CUST0556,52,Female,Los Angeles,Gaming,Eco-friendly,135997,PhD,Engineer
+CUST0557,58,Male,New York,Travel,Eco-friendly,72222,Master's,Engineer
+CUST0558,47,Male,Los Angeles,Finance,Budget,79223,Bachelor's,Engineer
+CUST0559,34,Male,New York,Health,Budget,140012,Bachelor's,Doctor
+CUST0560,37,Male,San Francisco,Travel,Premium,141246,High School,Teacher
+CUST0561,42,Male,Chicago,Fashion,Premium,95333,Master's,Doctor
+CUST0562,39,Male,Houston,Tech,Eco-friendly,82732,High School,Scientist
+CUST0563,30,Female,New York,Tech,Eco-friendly,79420,High School,Entrepreneur
+CUST0564,36,Male,Los Angeles,Health,Budget,105504,Master's,Teacher
+CUST0565,53,Female,Houston,Finance,Premium,32462,Master's,Entrepreneur
+CUST0566,29,Female,Chicago,Travel,Eco-friendly,39460,PhD,Engineer
+CUST0567,58,Female,San Francisco,Finance,Premium,129319,Master's,Teacher
+CUST0568,36,Male,Houston,Tech,Premium,39275,Bachelor's,Artist
+CUST0569,29,Female,New York,Finance,Eco-friendly,124213,Master's,Doctor
+CUST0570,26,Male,Chicago,Tech,Budget,43269,PhD,Doctor
+CUST0571,24,Male,Los Angeles,Finance,Eco-friendly,95942,PhD,Teacher
+CUST0572,45,Non-Binary,Chicago,Health,Eco-friendly,102920,PhD,Engineer
+CUST0573,31,Male,Chicago,Gaming,Premium,52553,Master's,Doctor
+CUST0574,48,Female,Miami,Health,Eco-friendly,54366,Master's,Engineer
+CUST0575,36,Female,Chicago,Health,Budget,74036,High School,Scientist
+CUST0576,64,Female,Chicago,Gaming,Eco-friendly,47369,High School,Entrepreneur
+CUST0577,33,Female,Houston,Gaming,Budget,41795,Bachelor's,Artist
+CUST0578,22,Male,Los Angeles,Travel,Budget,100021,High School,Entrepreneur
+CUST0579,52,Male,Houston,Travel,Premium,137205,Bachelor's,Entrepreneur
+CUST0580,29,Female,Houston,Health,High-end,98154,PhD,Scientist
+CUST0581,42,Male,New York,Health,High-end,60143,High School,Doctor
+CUST0582,38,Male,Houston,Tech,Premium,59425,Master's,Artist
+CUST0583,53,Male,Miami,Tech,Eco-friendly,118209,High School,Doctor
+CUST0584,40,Male,Miami,Travel,Premium,105139,Bachelor's,Teacher
+CUST0585,33,Male,New York,Fashion,Budget,135232,High School,Entrepreneur
+CUST0586,56,Male,San Francisco,Fashion,High-end,35368,PhD,Teacher
+CUST0587,62,Female,Los Angeles,Travel,Premium,34621,Master's,Engineer
+CUST0588,59,Female,Los Angeles,Tech,Eco-friendly,88829,Bachelor's,Entrepreneur
+CUST0589,56,Female,Houston,Tech,Premium,90294,Master's,Doctor
+CUST0590,31,Male,Houston,Fashion,High-end,44719,Master's,Entrepreneur
+CUST0591,48,Male,San Francisco,Finance,Premium,59227,Bachelor's,Engineer
+CUST0592,22,Male,Houston,Finance,Premium,139430,Master's,Scientist
+CUST0593,52,Female,Los Angeles,Tech,High-end,37566,Master's,Teacher
+CUST0594,40,Female,Chicago,Finance,Budget,42306,High School,Teacher
+CUST0595,46,Male,Miami,Gaming,Budget,83822,Master's,Doctor
+CUST0596,60,Female,Chicago,Travel,High-end,54042,Master's,Entrepreneur
+CUST0597,28,Male,Chicago,Travel,Premium,45086,Master's,Doctor
+CUST0598,35,Female,Los Angeles,Tech,High-end,47387,Master's,Scientist
+CUST0599,64,Female,Chicago,Health,Budget,57042,Bachelor's,Entrepreneur
+CUST0600,29,Female,San Francisco,Fashion,Eco-friendly,119424,PhD,Entrepreneur
+CUST0601,26,Female,New York,Tech,Premium,81618,High School,Doctor
+CUST0602,27,Female,Houston,Finance,Budget,122050,Master's,Doctor
+CUST0603,61,Male,New York,Fashion,Premium,48323,Master's,Engineer
+CUST0604,34,Female,Miami,Health,High-end,48019,Bachelor's,Scientist
+CUST0605,55,Male,Houston,Finance,Eco-friendly,105426,PhD,Engineer
+CUST0606,24,Female,Chicago,Gaming,High-end,70863,Master's,Teacher
+CUST0607,63,Female,Miami,Finance,Eco-friendly,141023,Bachelor's,Entrepreneur
+CUST0608,30,Female,Houston,Gaming,Premium,40283,High School,Doctor
+CUST0609,57,Male,San Francisco,Fashion,Premium,48279,High School,Entrepreneur
+CUST0610,59,Female,San Francisco,Gaming,High-end,76999,Master's,Entrepreneur
+CUST0611,26,Female,San Francisco,Fashion,Eco-friendly,92780,Master's,Artist
+CUST0612,44,Female,San Francisco,Fashion,Eco-friendly,52908,PhD,Teacher
+CUST0613,19,Male,Chicago,Fashion,Premium,91584,PhD,Artist
+CUST0614,22,Male,New York,Fashion,High-end,143002,Master's,Entrepreneur
+CUST0615,46,Male,Houston,Fashion,Eco-friendly,80225,Bachelor's,Doctor
+CUST0616,54,Male,Chicago,Finance,Premium,67952,PhD,Entrepreneur
+CUST0617,55,Female,San Francisco,Fashion,Budget,130706,Master's,Teacher
+CUST0618,36,Male,New York,Finance,High-end,67663,PhD,Artist
+CUST0619,25,Non-Binary,Miami,Fashion,Budget,139708,Master's,Doctor
+CUST0620,62,Male,Miami,Gaming,High-end,91381,High School,Entrepreneur
+CUST0621,18,Male,Miami,Fashion,Premium,77929,Master's,Scientist
+CUST0622,39,Female,San Francisco,Health,Eco-friendly,39343,High School,Teacher
+CUST0623,34,Female,Miami,Fashion,Eco-friendly,106173,PhD,Teacher
+CUST0624,24,Female,Los Angeles,Fashion,Eco-friendly,130260,Master's,Scientist
+CUST0625,42,Female,Houston,Gaming,High-end,69791,PhD,Entrepreneur
+CUST0626,62,Female,Houston,Travel,Premium,59134,High School,Teacher
+CUST0627,21,Male,San Francisco,Gaming,Budget,142366,Master's,Doctor
+CUST0628,53,Non-Binary,Los Angeles,Health,Premium,77101,PhD,Entrepreneur
+CUST0629,23,Non-Binary,Chicago,Travel,Budget,99443,High School,Entrepreneur
+CUST0630,48,Female,Chicago,Tech,High-end,129111,PhD,Artist
+CUST0631,36,Male,Miami,Tech,High-end,87530,Bachelor's,Teacher
+CUST0632,61,Female,New York,Health,Budget,76799,High School,Teacher
+CUST0633,56,Male,Chicago,Gaming,Budget,34827,High School,Scientist
+CUST0634,44,Male,New York,Finance,Budget,126143,High School,Artist
+CUST0635,27,Male,Houston,Health,Premium,92653,Master's,Artist
+CUST0636,43,Male,New York,Travel,Budget,43699,Master's,Teacher
+CUST0637,36,Female,Houston,Travel,High-end,132828,Master's,Entrepreneur
+CUST0638,56,Female,Los Angeles,Fashion,High-end,143497,Bachelor's,Artist
+CUST0639,20,Female,Los Angeles,Tech,Eco-friendly,121419,Bachelor's,Scientist
+CUST0640,62,Male,San Francisco,Travel,Budget,144527,High School,Artist
+CUST0641,30,Male,San Francisco,Health,Premium,146972,Bachelor's,Scientist
+CUST0642,45,Male,Miami,Travel,Premium,35313,PhD,Artist
+CUST0643,37,Non-Binary,Chicago,Health,Premium,43598,High School,Scientist
+CUST0644,45,Male,Miami,Finance,Eco-friendly,141362,High School,Artist
+CUST0645,25,Female,Houston,Fashion,High-end,145445,PhD,Artist
+CUST0646,58,Female,Miami,Tech,Premium,58807,High School,Doctor
+CUST0647,56,Male,New York,Travel,High-end,100423,Bachelor's,Scientist
+CUST0648,18,Female,Houston,Health,Eco-friendly,99390,Master's,Scientist
+CUST0649,20,Female,San Francisco,Gaming,Budget,75226,PhD,Scientist
+CUST0650,30,Female,Los Angeles,Tech,Budget,89550,Bachelor's,Engineer
+CUST0651,45,Female,San Francisco,Finance,Budget,110072,PhD,Artist
+CUST0652,42,Male,Chicago,Health,Premium,33558,PhD,Scientist
+CUST0653,50,Male,Houston,Fashion,Budget,105308,High School,Teacher
+CUST0654,55,Female,Houston,Fashion,Premium,80113,High School,Engineer
+CUST0655,23,Female,New York,Finance,Eco-friendly,82999,Bachelor's,Doctor
+CUST0656,61,Male,Chicago,Finance,Eco-friendly,85878,PhD,Scientist
+CUST0657,62,Female,Los Angeles,Fashion,Premium,66343,High School,Scientist
+CUST0658,49,Female,Houston,Travel,High-end,88219,High School,Engineer
+CUST0659,62,Female,Houston,Travel,Budget,65186,PhD,Artist
+CUST0660,64,Male,New York,Health,Budget,66966,Bachelor's,Teacher
+CUST0661,38,Female,Miami,Gaming,Budget,63769,Bachelor's,Doctor
+CUST0662,33,Female,Los Angeles,Health,Premium,149932,PhD,Scientist
+CUST0663,38,Male,San Francisco,Gaming,Eco-friendly,135423,Bachelor's,Artist
+CUST0664,28,Male,Chicago,Finance,Budget,83218,High School,Teacher
+CUST0665,54,Non-Binary,Houston,Tech,Eco-friendly,49229,PhD,Teacher
+CUST0666,53,Male,Houston,Health,Budget,105209,High School,Doctor
+CUST0667,52,Female,San Francisco,Health,Budget,57877,Master's,Entrepreneur
+CUST0668,36,Female,Los Angeles,Gaming,Premium,88001,Master's,Teacher
+CUST0669,37,Male,Miami,Finance,High-end,127137,Bachelor's,Entrepreneur
+CUST0670,35,Female,Houston,Finance,Premium,68084,Master's,Teacher
+CUST0671,64,Male,Los Angeles,Gaming,Budget,111780,High School,Doctor
+CUST0672,58,Female,San Francisco,Finance,Budget,122892,Master's,Engineer
+CUST0673,31,Male,New York,Fashion,High-end,46806,High School,Doctor
+CUST0674,32,Female,Miami,Travel,Eco-friendly,118635,Bachelor's,Doctor
+CUST0675,48,Male,Chicago,Fashion,Eco-friendly,140177,Bachelor's,Engineer
+CUST0676,18,Male,Houston,Tech,Budget,67034,High School,Engineer
+CUST0677,20,Non-Binary,Los Angeles,Health,Eco-friendly,70317,Master's,Artist
+CUST0678,33,Male,New York,Tech,Budget,85468,Bachelor's,Teacher
+CUST0679,40,Female,Chicago,Health,High-end,49094,PhD,Artist
+CUST0680,28,Male,Los Angeles,Travel,High-end,87796,Bachelor's,Engineer
+CUST0681,29,Female,Los Angeles,Finance,Budget,40589,Master's,Entrepreneur
+CUST0682,27,Male,Chicago,Fashion,High-end,87221,PhD,Entrepreneur
+CUST0683,49,Non-Binary,New York,Gaming,Premium,31657,Master's,Doctor
+CUST0684,33,Male,San Francisco,Fashion,Premium,128300,High School,Scientist
+CUST0685,25,Male,New York,Travel,High-end,147229,PhD,Doctor
+CUST0686,55,Male,Miami,Tech,Budget,69531,Master's,Doctor
+CUST0687,29,Male,Houston,Gaming,Budget,82227,PhD,Scientist
+CUST0688,41,Female,Chicago,Finance,High-end,33164,Master's,Teacher
+CUST0689,45,Male,San Francisco,Travel,Eco-friendly,123078,PhD,Engineer
+CUST0690,25,Female,Chicago,Gaming,Premium,113973,Master's,Entrepreneur
+CUST0691,45,Male,Chicago,Travel,Eco-friendly,71247,High School,Doctor
+CUST0692,53,Male,New York,Travel,Budget,134041,PhD,Scientist
+CUST0693,43,Female,Houston,Finance,Budget,49601,PhD,Artist
+CUST0694,25,Female,Miami,Health,Eco-friendly,123966,PhD,Doctor
+CUST0695,45,Male,Los Angeles,Gaming,High-end,80599,PhD,Entrepreneur
+CUST0696,45,Male,Los Angeles,Finance,Eco-friendly,101545,High School,Engineer
+CUST0697,54,Male,Chicago,Travel,Eco-friendly,145295,PhD,Doctor
+CUST0698,58,Female,Houston,Finance,Premium,34552,Bachelor's,Doctor
+CUST0699,53,Female,San Francisco,Health,Premium,146452,High School,Teacher
+CUST0700,44,Male,New York,Fashion,Eco-friendly,39417,Bachelor's,Scientist
+CUST0701,34,Female,Houston,Gaming,Eco-friendly,88579,PhD,Artist
+CUST0702,26,Female,Houston,Health,Budget,137525,Master's,Artist
+CUST0703,50,Female,New York,Tech,Premium,98207,Bachelor's,Engineer
+CUST0704,37,Female,Chicago,Gaming,Premium,102055,PhD,Entrepreneur
+CUST0705,30,Male,Houston,Health,Budget,132266,Bachelor's,Engineer
+CUST0706,45,Male,Los Angeles,Travel,High-end,108270,PhD,Doctor
+CUST0707,46,Male,New York,Gaming,Premium,141426,PhD,Doctor
+CUST0708,30,Male,San Francisco,Gaming,Premium,147865,PhD,Artist
+CUST0709,63,Female,Miami,Finance,High-end,33722,Master's,Entrepreneur
+CUST0710,52,Female,Chicago,Travel,Premium,100442,Bachelor's,Scientist
+CUST0711,23,Male,New York,Tech,Premium,125632,High School,Entrepreneur
+CUST0712,35,Male,Miami,Fashion,High-end,70031,High School,Doctor
+CUST0713,22,Male,Miami,Health,High-end,109235,High School,Scientist
+CUST0714,64,Female,San Francisco,Finance,Eco-friendly,51438,High School,Entrepreneur
+CUST0715,42,Male,Houston,Health,Budget,88819,PhD,Entrepreneur
+CUST0716,19,Female,San Francisco,Tech,Budget,73856,Bachelor's,Scientist
+CUST0717,27,Male,Houston,Tech,High-end,63576,Bachelor's,Doctor
+CUST0718,47,Male,Houston,Gaming,High-end,71938,Master's,Entrepreneur
+CUST0719,62,Non-Binary,New York,Tech,Premium,79028,Bachelor's,Scientist
+CUST0720,22,Non-Binary,New York,Health,Eco-friendly,89807,Bachelor's,Teacher
+CUST0721,50,Male,Chicago,Travel,Eco-friendly,79877,Bachelor's,Teacher
+CUST0722,18,Female,Houston,Travel,High-end,127783,Master's,Doctor
+CUST0723,35,Female,Miami,Gaming,Premium,73461,High School,Scientist
+CUST0724,49,Female,Los Angeles,Fashion,Premium,123474,Bachelor's,Teacher
+CUST0725,64,Male,Chicago,Health,Budget,70469,Master's,Scientist
+CUST0726,28,Female,New York,Health,Budget,113136,Master's,Entrepreneur
+CUST0727,38,Female,San Francisco,Tech,Premium,50435,PhD,Doctor
+CUST0728,43,Female,Chicago,Health,Budget,114117,Master's,Teacher
+CUST0729,42,Male,Chicago,Finance,High-end,44191,High School,Entrepreneur
+CUST0730,39,Male,Chicago,Fashion,Premium,114726,Bachelor's,Engineer
+CUST0731,44,Male,Chicago,Tech,Budget,145660,Master's,Engineer
+CUST0732,30,Female,Los Angeles,Finance,Eco-friendly,57386,High School,Doctor
+CUST0733,50,Male,San Francisco,Gaming,Premium,61721,Master's,Teacher
+CUST0734,51,Female,San Francisco,Travel,Premium,84786,Master's,Teacher
+CUST0735,58,Non-Binary,San Francisco,Gaming,Eco-friendly,43704,Master's,Teacher
+CUST0736,52,Male,Houston,Travel,High-end,86635,Master's,Scientist
+CUST0737,18,Female,Miami,Gaming,Eco-friendly,32123,Master's,Entrepreneur
+CUST0738,38,Male,San Francisco,Health,Premium,120710,High School,Teacher
+CUST0739,23,Female,Chicago,Finance,High-end,139837,Bachelor's,Entrepreneur
+CUST0740,45,Male,Chicago,Travel,Budget,144912,Bachelor's,Doctor
+CUST0741,34,Female,San Francisco,Tech,Budget,92993,Bachelor's,Teacher
+CUST0742,22,Female,San Francisco,Finance,Budget,142752,Bachelor's,Doctor
+CUST0743,48,Female,Chicago,Tech,Premium,110122,High School,Teacher
+CUST0744,22,Female,Houston,Finance,Eco-friendly,127512,PhD,Engineer
+CUST0745,55,Female,New York,Finance,High-end,55416,PhD,Artist
+CUST0746,20,Female,New York,Gaming,Budget,31814,High School,Doctor
+CUST0747,40,Female,San Francisco,Travel,High-end,108537,High School,Teacher
+CUST0748,54,Female,Los Angeles,Travel,Premium,80258,Master's,Artist
+CUST0749,54,Male,San Francisco,Finance,Budget,46508,Master's,Doctor
+CUST0750,27,Female,San Francisco,Health,Premium,115166,Master's,Scientist
+CUST0751,27,Female,New York,Health,Eco-friendly,108916,Bachelor's,Teacher
+CUST0752,36,Female,Chicago,Tech,Premium,143710,Master's,Scientist
+CUST0753,34,Male,San Francisco,Tech,Premium,65699,PhD,Engineer
+CUST0754,38,Female,Chicago,Gaming,Eco-friendly,76335,Bachelor's,Teacher
+CUST0755,31,Male,Chicago,Finance,High-end,76806,Master's,Engineer
+CUST0756,26,Female,Los Angeles,Tech,Eco-friendly,107853,Bachelor's,Artist
+CUST0757,63,Male,Chicago,Tech,Eco-friendly,93768,PhD,Doctor
+CUST0758,18,Female,New York,Fashion,Premium,65739,Master's,Entrepreneur
+CUST0759,62,Non-Binary,Houston,Finance,High-end,64785,PhD,Engineer
+CUST0760,30,Male,Houston,Gaming,Budget,61980,PhD,Entrepreneur
+CUST0761,21,Non-Binary,Miami,Tech,Eco-friendly,119335,PhD,Entrepreneur
+CUST0762,18,Male,San Francisco,Gaming,High-end,130719,Master's,Doctor
+CUST0763,57,Female,New York,Travel,Eco-friendly,124702,High School,Artist
+CUST0764,49,Female,Chicago,Gaming,Eco-friendly,115016,Master's,Doctor
+CUST0765,51,Female,Houston,Health,Eco-friendly,31609,PhD,Teacher
+CUST0766,45,Female,New York,Health,Eco-friendly,96253,Master's,Engineer
+CUST0767,48,Female,Houston,Gaming,Premium,115481,PhD,Entrepreneur
+CUST0768,25,Male,Chicago,Health,High-end,121128,High School,Doctor
+CUST0769,56,Male,Houston,Travel,High-end,58141,Bachelor's,Doctor
+CUST0770,43,Female,San Francisco,Finance,High-end,60009,High School,Doctor
+CUST0771,51,Female,San Francisco,Health,Eco-friendly,140966,High School,Engineer
+CUST0772,20,Female,Miami,Health,Premium,36782,Bachelor's,Artist
+CUST0773,29,Female,Miami,Gaming,Eco-friendly,122072,Master's,Doctor
+CUST0774,18,Male,Houston,Travel,Eco-friendly,129352,Bachelor's,Engineer
+CUST0775,61,Female,New York,Finance,High-end,55933,Master's,Entrepreneur
+CUST0776,22,Male,San Francisco,Gaming,Eco-friendly,107154,Master's,Teacher
+CUST0777,47,Female,New York,Gaming,Budget,38307,PhD,Scientist
+CUST0778,47,Male,New York,Fashion,Eco-friendly,122207,PhD,Engineer
+CUST0779,34,Male,Houston,Travel,Budget,136209,Bachelor's,Scientist
+CUST0780,64,Male,New York,Finance,Eco-friendly,138297,High School,Doctor
+CUST0781,40,Male,San Francisco,Travel,Premium,105874,Bachelor's,Doctor
+CUST0782,32,Female,Chicago,Finance,Premium,68346,Master's,Engineer
+CUST0783,54,Male,Miami,Travel,High-end,142138,PhD,Scientist
+CUST0784,38,Male,Chicago,Gaming,Eco-friendly,80772,Bachelor's,Doctor
+CUST0785,31,Male,New York,Gaming,Budget,102084,Bachelor's,Entrepreneur
+CUST0786,19,Male,Chicago,Tech,Budget,70149,PhD,Artist
+CUST0787,28,Male,San Francisco,Health,Eco-friendly,116700,PhD,Artist
+CUST0788,56,Male,San Francisco,Fashion,Budget,57526,PhD,Doctor
+CUST0789,55,Female,New York,Travel,Premium,126758,Master's,Scientist
+CUST0790,51,Female,Houston,Fashion,Budget,115712,PhD,Teacher
+CUST0791,55,Female,Chicago,Tech,High-end,98477,High School,Doctor
+CUST0792,51,Male,Houston,Health,Premium,35695,Bachelor's,Teacher
+CUST0793,35,Male,Houston,Travel,Premium,69169,PhD,Teacher
+CUST0794,47,Female,Los Angeles,Finance,Premium,77947,PhD,Scientist
+CUST0795,32,Female,New York,Health,Eco-friendly,77224,Master's,Teacher
+CUST0796,44,Male,Miami,Gaming,Eco-friendly,75865,Master's,Entrepreneur
+CUST0797,51,Male,San Francisco,Tech,Premium,55553,Bachelor's,Scientist
+CUST0798,55,Male,San Francisco,Health,Eco-friendly,134501,High School,Doctor
+CUST0799,50,Male,New York,Health,Budget,90410,Bachelor's,Entrepreneur
+CUST0800,41,Male,Miami,Gaming,Eco-friendly,133754,PhD,Engineer
+CUST0801,32,Female,San Francisco,Travel,Eco-friendly,120895,High School,Artist
+CUST0802,47,Female,New York,Finance,Premium,54816,High School,Doctor
+CUST0803,59,Female,San Francisco,Gaming,High-end,85026,High School,Doctor
+CUST0804,34,Female,Houston,Finance,High-end,80705,High School,Doctor
+CUST0805,22,Female,Chicago,Travel,High-end,91922,Bachelor's,Entrepreneur
+CUST0806,46,Female,Chicago,Health,Budget,145700,Master's,Engineer
+CUST0807,21,Female,San Francisco,Finance,Eco-friendly,103914,Master's,Scientist
+CUST0808,27,Male,Los Angeles,Tech,High-end,31881,PhD,Engineer
+CUST0809,34,Male,Miami,Tech,Premium,69567,Master's,Entrepreneur
+CUST0810,27,Male,Miami,Gaming,High-end,77365,Master's,Doctor
+CUST0811,34,Female,Miami,Travel,High-end,109211,Master's,Artist
+CUST0812,37,Female,Houston,Gaming,Eco-friendly,100122,Master's,Doctor
+CUST0813,41,Male,Miami,Gaming,Eco-friendly,55006,PhD,Scientist
+CUST0814,22,Female,Chicago,Fashion,Eco-friendly,71198,Bachelor's,Teacher
+CUST0815,51,Male,Houston,Gaming,Budget,52831,High School,Artist
+CUST0816,23,Female,New York,Fashion,Budget,130649,Master's,Doctor
+CUST0817,19,Male,Miami,Tech,High-end,46459,Bachelor's,Artist
+CUST0818,30,Male,Miami,Tech,Eco-friendly,62443,Master's,Teacher
+CUST0819,60,Female,New York,Gaming,High-end,72316,Master's,Engineer
+CUST0820,60,Male,Miami,Tech,Premium,126131,High School,Entrepreneur
+CUST0821,28,Male,New York,Travel,Premium,94486,High School,Doctor
+CUST0822,64,Male,Houston,Fashion,Eco-friendly,35877,High School,Scientist
+CUST0823,40,Female,Chicago,Fashion,Eco-friendly,69553,Master's,Engineer
+CUST0824,33,Female,New York,Gaming,Premium,144137,Master's,Doctor
+CUST0825,48,Male,Los Angeles,Tech,Eco-friendly,34922,Master's,Engineer
+CUST0826,28,Female,New York,Finance,Budget,147018,High School,Scientist
+CUST0827,33,Female,Miami,Fashion,Budget,34686,PhD,Doctor
+CUST0828,25,Male,Houston,Gaming,Eco-friendly,62766,Bachelor's,Teacher
+CUST0829,21,Male,San Francisco,Gaming,Premium,109943,PhD,Teacher
+CUST0830,57,Male,Houston,Travel,High-end,62006,Master's,Scientist
+CUST0831,21,Male,San Francisco,Health,Eco-friendly,61422,Master's,Artist
+CUST0832,42,Female,New York,Health,Eco-friendly,146590,PhD,Scientist
+CUST0833,20,Male,Chicago,Fashion,High-end,42205,Master's,Artist
+CUST0834,49,Female,Los Angeles,Travel,Eco-friendly,116590,Bachelor's,Doctor
+CUST0835,20,Female,Houston,Travel,High-end,53527,Master's,Artist
+CUST0836,44,Male,Miami,Travel,Premium,141483,Bachelor's,Doctor
+CUST0837,46,Female,San Francisco,Fashion,Budget,48443,PhD,Doctor
+CUST0838,49,Male,Miami,Health,Premium,46524,PhD,Entrepreneur
+CUST0839,36,Non-Binary,Chicago,Travel,Budget,146477,Master's,Doctor
+CUST0840,38,Female,San Francisco,Tech,High-end,58202,Bachelor's,Artist
+CUST0841,22,Female,Houston,Gaming,Budget,95552,Master's,Entrepreneur
+CUST0842,35,Female,New York,Gaming,Premium,76142,High School,Entrepreneur
+CUST0843,45,Male,Miami,Finance,Budget,91692,High School,Doctor
+CUST0844,59,Female,Chicago,Finance,High-end,112384,High School,Scientist
+CUST0845,39,Female,Houston,Fashion,Budget,50855,High School,Scientist
+CUST0846,38,Female,Houston,Fashion,Eco-friendly,113747,Master's,Teacher
+CUST0847,23,Female,Houston,Gaming,Premium,90372,High School,Entrepreneur
+CUST0848,18,Female,Houston,Tech,Eco-friendly,55095,Bachelor's,Doctor
+CUST0849,22,Male,San Francisco,Health,High-end,68724,PhD,Scientist
+CUST0850,58,Male,Houston,Health,Budget,79241,PhD,Doctor
+CUST0851,29,Female,Miami,Fashion,Eco-friendly,133119,High School,Doctor
+CUST0852,43,Male,Chicago,Tech,Eco-friendly,82003,High School,Entrepreneur
+CUST0853,63,Female,San Francisco,Fashion,Budget,98379,High School,Teacher
+CUST0854,51,Female,Houston,Health,Budget,124837,Master's,Entrepreneur
+CUST0855,31,Male,Los Angeles,Fashion,Premium,121996,PhD,Engineer
+CUST0856,43,Male,Los Angeles,Travel,Eco-friendly,127454,High School,Scientist
+CUST0857,62,Female,Chicago,Fashion,Eco-friendly,124283,Bachelor's,Scientist
+CUST0858,44,Male,New York,Gaming,High-end,45972,High School,Scientist
+CUST0859,26,Female,New York,Fashion,Premium,123846,PhD,Artist
+CUST0860,43,Male,San Francisco,Gaming,High-end,52927,High School,Doctor
+CUST0861,64,Female,San Francisco,Tech,Eco-friendly,145657,PhD,Entrepreneur
+CUST0862,39,Male,San Francisco,Health,High-end,96630,High School,Scientist
+CUST0863,64,Female,New York,Finance,Eco-friendly,134428,Bachelor's,Engineer
+CUST0864,47,Male,Los Angeles,Finance,Eco-friendly,82347,High School,Scientist
+CUST0865,60,Female,New York,Health,High-end,129708,Bachelor's,Teacher
+CUST0866,34,Male,Miami,Finance,High-end,118860,Bachelor's,Doctor
+CUST0867,43,Female,Houston,Fashion,Budget,116210,High School,Doctor
+CUST0868,53,Female,San Francisco,Tech,Budget,99518,Bachelor's,Entrepreneur
+CUST0869,18,Male,Los Angeles,Tech,Budget,75283,Master's,Artist
+CUST0870,25,Male,Chicago,Health,Eco-friendly,111326,High School,Entrepreneur
+CUST0871,52,Male,Chicago,Finance,High-end,42205,High School,Scientist
+CUST0872,32,Female,Houston,Fashion,Premium,119874,Bachelor's,Teacher
+CUST0873,64,Female,Los Angeles,Tech,Eco-friendly,42748,Bachelor's,Engineer
+CUST0874,39,Female,New York,Tech,Premium,51097,High School,Entrepreneur
+CUST0875,31,Male,New York,Travel,High-end,33092,Master's,Artist
+CUST0876,43,Male,Miami,Travel,Eco-friendly,83311,Bachelor's,Entrepreneur
+CUST0877,45,Female,Miami,Tech,Premium,52692,Bachelor's,Doctor
+CUST0878,40,Female,New York,Health,Premium,53862,PhD,Scientist
+CUST0879,31,Non-Binary,Chicago,Gaming,Budget,120396,Master's,Scientist
+CUST0880,41,Male,San Francisco,Gaming,Budget,109507,Master's,Scientist
+CUST0881,19,Female,Chicago,Fashion,Budget,110152,High School,Scientist
+CUST0882,62,Male,Miami,Tech,Eco-friendly,100469,Master's,Scientist
+CUST0883,43,Male,Houston,Tech,High-end,34926,High School,Scientist
+CUST0884,31,Female,New York,Tech,High-end,121299,PhD,Engineer
+CUST0885,24,Female,Miami,Health,Budget,33969,Master's,Artist
+CUST0886,20,Non-Binary,Miami,Travel,Budget,65733,Bachelor's,Scientist
+CUST0887,64,Male,San Francisco,Tech,Budget,99855,PhD,Artist
+CUST0888,40,Male,New York,Tech,Premium,71743,High School,Teacher
+CUST0889,63,Female,San Francisco,Finance,Budget,69876,PhD,Scientist
+CUST0890,60,Female,New York,Health,Premium,137445,High School,Entrepreneur
+CUST0891,64,Male,San Francisco,Fashion,High-end,50323,PhD,Scientist
+CUST0892,62,Male,Chicago,Tech,Eco-friendly,46428,High School,Doctor
+CUST0893,35,Male,Houston,Finance,Eco-friendly,64578,Master's,Engineer
+CUST0894,55,Female,Houston,Gaming,Eco-friendly,116486,Bachelor's,Entrepreneur
+CUST0895,52,Male,New York,Fashion,Eco-friendly,138577,High School,Entrepreneur
+CUST0896,32,Male,Los Angeles,Tech,Premium,94140,PhD,Doctor
+CUST0897,42,Male,Miami,Tech,Premium,137325,High School,Scientist
+CUST0898,54,Male,Miami,Finance,Budget,113829,High School,Engineer
+CUST0899,45,Male,New York,Health,Premium,36364,High School,Entrepreneur
+CUST0900,27,Female,San Francisco,Tech,Budget,65349,PhD,Engineer
+CUST0901,56,Male,Los Angeles,Gaming,Budget,30691,Bachelor's,Entrepreneur
+CUST0902,34,Female,Chicago,Tech,Eco-friendly,125598,Master's,Scientist
+CUST0903,56,Male,San Francisco,Gaming,Premium,96467,Bachelor's,Teacher
+CUST0904,39,Female,San Francisco,Fashion,Premium,75896,High School,Entrepreneur
+CUST0905,43,Female,New York,Fashion,Budget,87062,PhD,Teacher
+CUST0906,61,Female,New York,Travel,Budget,127266,Bachelor's,Entrepreneur
+CUST0907,42,Female,Miami,Travel,High-end,109762,High School,Artist
+CUST0908,34,Male,New York,Gaming,High-end,43861,Master's,Scientist
+CUST0909,30,Male,New York,Health,Budget,126837,Master's,Doctor
+CUST0910,37,Female,New York,Tech,High-end,143779,Master's,Teacher
+CUST0911,42,Non-Binary,Miami,Tech,High-end,118302,High School,Doctor
+CUST0912,21,Female,Chicago,Travel,Budget,131710,PhD,Scientist
+CUST0913,27,Female,Chicago,Gaming,Budget,93928,Bachelor's,Doctor
+CUST0914,20,Female,New York,Tech,Premium,136643,Master's,Scientist
+CUST0915,58,Male,Miami,Tech,Budget,145720,High School,Doctor
+CUST0916,62,Male,Chicago,Health,Budget,113231,High School,Teacher
+CUST0917,35,Female,San Francisco,Finance,Eco-friendly,71347,Bachelor's,Artist
+CUST0918,64,Female,Chicago,Travel,Premium,33121,Master's,Doctor
+CUST0919,53,Male,Chicago,Travel,Premium,113793,High School,Teacher
+CUST0920,64,Female,Miami,Finance,Premium,58164,Bachelor's,Entrepreneur
+CUST0921,39,Male,San Francisco,Tech,Eco-friendly,55491,PhD,Scientist
+CUST0922,51,Female,Miami,Health,Budget,89222,PhD,Engineer
+CUST0923,64,Male,New York,Health,Premium,53165,PhD,Engineer
+CUST0924,25,Male,Houston,Travel,Premium,144250,Master's,Scientist
+CUST0925,57,Female,Chicago,Health,High-end,33748,Bachelor's,Artist
+CUST0926,61,Male,Houston,Fashion,Premium,128581,Bachelor's,Doctor
+CUST0927,36,Female,Miami,Finance,Budget,56553,High School,Artist
+CUST0928,59,Female,Miami,Tech,Budget,146547,High School,Engineer
+CUST0929,58,Female,Miami,Fashion,High-end,90380,High School,Teacher
+CUST0930,54,Male,Houston,Finance,Premium,74331,Bachelor's,Scientist
+CUST0931,23,Male,Miami,Gaming,Premium,126033,High School,Scientist
+CUST0932,43,Male,New York,Travel,Premium,126844,Bachelor's,Artist
+CUST0933,51,Non-Binary,Miami,Health,Eco-friendly,69560,Bachelor's,Teacher
+CUST0934,62,Female,Los Angeles,Gaming,Premium,83865,PhD,Artist
+CUST0935,23,Female,Houston,Health,Budget,76686,High School,Doctor
+CUST0936,54,Female,Los Angeles,Fashion,Budget,105910,PhD,Entrepreneur
+CUST0937,50,Female,Miami,Tech,Eco-friendly,34675,Master's,Teacher
+CUST0938,39,Female,New York,Tech,Eco-friendly,96706,Master's,Entrepreneur
+CUST0939,38,Male,Chicago,Tech,Premium,136985,Master's,Doctor
+CUST0940,23,Female,San Francisco,Health,High-end,139021,Bachelor's,Entrepreneur
+CUST0941,23,Male,San Francisco,Gaming,Eco-friendly,107986,Bachelor's,Engineer
+CUST0942,21,Female,Miami,Tech,Eco-friendly,106216,Bachelor's,Entrepreneur
+CUST0943,47,Female,New York,Gaming,Premium,40068,High School,Doctor
+CUST0944,28,Female,Houston,Health,Premium,84460,PhD,Entrepreneur
+CUST0945,47,Male,Los Angeles,Fashion,Eco-friendly,130766,Bachelor's,Scientist
+CUST0946,48,Male,Los Angeles,Gaming,High-end,76418,PhD,Artist
+CUST0947,41,Male,Los Angeles,Fashion,Eco-friendly,56206,PhD,Engineer
+CUST0948,26,Male,Houston,Health,Premium,30287,PhD,Scientist
+CUST0949,20,Male,San Francisco,Health,Premium,52337,High School,Scientist
+CUST0950,48,Female,New York,Travel,Eco-friendly,50666,High School,Doctor
+CUST0951,57,Female,Houston,Health,High-end,146595,Master's,Artist
+CUST0952,54,Male,Los Angeles,Health,Eco-friendly,31161,Master's,Artist
+CUST0953,53,Male,Miami,Finance,Eco-friendly,144817,PhD,Teacher
+CUST0954,41,Male,Chicago,Tech,Premium,130667,Master's,Engineer
+CUST0955,48,Female,Houston,Travel,High-end,120071,PhD,Doctor
+CUST0956,23,Female,Houston,Travel,Budget,128064,High School,Engineer
+CUST0957,19,Female,New York,Travel,High-end,68751,High School,Teacher
+CUST0958,37,Female,New York,Finance,Eco-friendly,112063,High School,Entrepreneur
+CUST0959,45,Non-Binary,Houston,Fashion,Eco-friendly,136511,Bachelor's,Scientist
+CUST0960,28,Female,Los Angeles,Health,Eco-friendly,119389,PhD,Engineer
+CUST0961,21,Male,Chicago,Tech,High-end,44758,High School,Scientist
+CUST0962,32,Female,New York,Gaming,Premium,95780,PhD,Doctor
+CUST0963,23,Male,Los Angeles,Fashion,Eco-friendly,145614,Master's,Entrepreneur
+CUST0964,47,Female,Miami,Health,Eco-friendly,33178,Master's,Doctor
+CUST0965,55,Male,New York,Finance,High-end,61831,High School,Entrepreneur
+CUST0966,19,Female,Los Angeles,Health,Budget,32176,PhD,Entrepreneur
+CUST0967,32,Female,Los Angeles,Health,Budget,133306,High School,Scientist
+CUST0968,28,Female,Chicago,Finance,Premium,63654,Master's,Doctor
+CUST0969,25,Female,Chicago,Travel,Premium,56627,High School,Doctor
+CUST0970,43,Male,Miami,Travel,Eco-friendly,82550,PhD,Engineer
+CUST0971,62,Male,Los Angeles,Tech,High-end,142025,Master's,Doctor
+CUST0972,61,Male,San Francisco,Tech,Eco-friendly,74910,Bachelor's,Engineer
+CUST0973,22,Male,Los Angeles,Travel,Premium,120417,Master's,Artist
+CUST0974,23,Female,Chicago,Fashion,High-end,88251,Bachelor's,Artist
+CUST0975,43,Male,San Francisco,Gaming,High-end,65422,High School,Artist
+CUST0976,21,Non-Binary,New York,Health,Premium,41984,High School,Teacher
+CUST0977,36,Female,New York,Gaming,Budget,119312,PhD,Doctor
+CUST0978,37,Female,Houston,Health,Budget,91386,Bachelor's,Teacher
+CUST0979,50,Male,Chicago,Travel,High-end,113291,High School,Doctor
+CUST0980,37,Female,Houston,Tech,Eco-friendly,37135,Bachelor's,Engineer
+CUST0981,29,Female,San Francisco,Fashion,Budget,30320,High School,Teacher
+CUST0982,64,Female,Chicago,Tech,Eco-friendly,132958,Master's,Teacher
+CUST0983,18,Female,Miami,Gaming,Budget,124171,High School,Teacher
+CUST0984,43,Female,Los Angeles,Tech,Budget,51684,PhD,Entrepreneur
+CUST0985,31,Male,Miami,Travel,Eco-friendly,85913,Master's,Engineer
+CUST0986,55,Female,San Francisco,Fashion,Premium,118774,PhD,Artist
+CUST0987,54,Male,Chicago,Gaming,Budget,51889,Master's,Engineer
+CUST0988,28,Male,San Francisco,Fashion,Budget,125849,Bachelor's,Entrepreneur
+CUST0989,53,Male,Los Angeles,Health,Eco-friendly,128071,PhD,Doctor
+CUST0990,30,Male,New York,Tech,Premium,78899,High School,Engineer
+CUST0991,60,Male,New York,Fashion,Budget,40770,Bachelor's,Teacher
+CUST0992,20,Male,San Francisco,Finance,Budget,69321,High School,Artist
+CUST0993,50,Non-Binary,Houston,Tech,Premium,115962,Master's,Artist
+CUST0994,23,Female,Chicago,Health,Budget,139863,Master's,Doctor
+CUST0995,27,Non-Binary,Chicago,Fashion,Premium,71777,High School,Engineer
+CUST0996,22,Male,New York,Gaming,Premium,76250,High School,Entrepreneur
+CUST0997,40,Male,Miami,Health,Eco-friendly,103034,Bachelor's,Doctor
+CUST0998,27,Female,Los Angeles,Finance,High-end,134940,High School,Engineer
+CUST0999,61,Male,Miami,Fashion,Premium,70130,PhD,Scientist
+CUST1000,19,Male,Miami,Travel,Eco-friendly,111931,PhD,Artist
